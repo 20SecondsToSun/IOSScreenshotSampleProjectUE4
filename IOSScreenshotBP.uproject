@@ -1,13 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "IOSScreenshotMaker",
 			"Enabled": true,
-			"MarketplaceURL": "https://www.unrealengine.com/marketplace/ios-screenshot-native-features"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/04e6dc25b8fa4039b4351d0648bf3527"
 		}
 	]
 }
